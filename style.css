@@ -1,0 +1,23 @@
+.inline-block{
+    display: inline-block;
+    padding: 15px;
+    color: #ffffff;
+}
+nav{
+    background-color: grey;
+}
+.Left{
+    float: left;
+    height: 500px;
+    background-color:aqua;
+    padding: 20px;
+}
+.Right{background-color:aquamarine;
+}
+.huey{
+    padding: 20px;
+}
+.Right{
+    padding: 20px;
+    margin-left: 20px;
+}
